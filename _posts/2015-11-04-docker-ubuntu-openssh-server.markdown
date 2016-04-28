@@ -3,8 +3,6 @@ layout: post
 ---
 Docker中Ubuntu镜像添加openssh-server服务，有需要的朋友可以参考下。
 
-### Docker中Ubuntu镜像添加openssh-server服务
-
 
 ##### 1，首先，需要从docker官网获得centos或Ubuntu镜像
 

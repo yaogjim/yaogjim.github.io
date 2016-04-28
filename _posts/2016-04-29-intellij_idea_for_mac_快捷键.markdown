@@ -2,7 +2,6 @@
 layout: post
 ---
 IntelliJ IDEA For Mac 快捷键
-# IntelliJ IDEA For Mac 快捷键
 
 
 #### Mac键盘符号和修饰键说明

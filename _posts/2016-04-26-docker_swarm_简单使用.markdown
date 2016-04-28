@@ -2,7 +2,6 @@
 layout: post
 ---
 docker swarm 简单使用
-### docker swarm 简单使用
 
 检查节点Docker配置
 
